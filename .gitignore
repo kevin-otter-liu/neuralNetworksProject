@@ -1,3 +1,11 @@
+# models
+/data
+/weights
+/models
+
+#kerastuner cache file
+untitled_project/oracle.json
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
